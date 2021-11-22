@@ -110,7 +110,7 @@ On implément les classes avec le moins de couplage pour la solution
 - Modèle du problème ressemble beaucoup au modèle de la solution
 - Différence car un esolution comporte des détails sur la dynamique du jeu qui sera codée
 - Le modèle du problème et le modèle de la solution ne sont pas identiques
-- **On veut que la solution(conception) ressembnle à une description (modèle d'analyse) du problème**
+- **On veut que la solution(conception) ressemble à une description (modèle d'analyse) du problème**
 - Se mefier des classes importantes au noms difficiles à tracer au problème
 
 ### Complexité et ses sources
@@ -139,7 +139,6 @@ On implément les classes avec le moins de couplage pour la solution
 - Un cycle est une itération, dure un temps fixe, comprends des activités d'analyse, de conception de programmation et de test, ainsi qu'une démonstration
 - La durée d'un eitération est limitée dans le temps
 - On ne peut pas ajouter de temps, on reporte
--
 
 #### Avantages :
 
@@ -220,4 +219,14 @@ On implément les classes avec le moins de couplage pour la solution
 
 ## Chapter 2
 
-## Quiz
+**Iterative and evolutionary development** involves:
+
+- Early programming
+- Testing of a partial system
+- Repeating cycles
+
+### What is UP? Are other methods complementary
+
+- Software development process describes an approach to building, deploying maintaining software
+- **Unified process** (UP) is an iterative software development process for building object-oriented systems
+- **Rational Unified Process** (RUP) is a detailed refinement of the UP
