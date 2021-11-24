@@ -119,7 +119,7 @@ On implément les classes avec le moins de couplage pour la solution
 
 **Complexité inhérente (provenant du problème):**
 
-- Au sien du problème résolu par le logiciel
+- Au sein du problème résolu par le logiciel
 - Composée des parties du logiciels qui sont des problèmes difficiles
 - Un logiciel tentant de résoudre ces problèmes aura une manifestation de cette complexité dans son implémentation
 
@@ -129,7 +129,7 @@ On implément les classes avec le moins de couplage pour la solution
 - Le singénieurs doivent contrôller cette complexité peut être due à des contraintes imposées sur la conception
 - Peut-être gérée avec des technologies (débogueurs patrons de conception)
 
-**Complexité enfironnementale (provenant de l'environnement d'exécution)**
+**Complexité environnementale (provenant de l'environnement d'exécution)**
 
 - Comprend des aspects d'une solution hors du contrôle des ingénieurs
 
