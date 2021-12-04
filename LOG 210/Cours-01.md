@@ -12,7 +12,7 @@
 
 #### Spectre de la conception
 
-![](/imgs/spectre-de-la-conception.png "Spectre de la conception")
+![](./imgs/spectre-de-la-conception.png "Spectre de la conception")
 
 - Effectuer suffisament d'analyse de conception pour savoir ou l'on s'en va.
 - Limiter la conception pour éviter de travailler inutilement
@@ -80,7 +80,7 @@ Après cela, implémentation
 
 On implément les classes avec le moins de couplage pour la solution
 
-![](/imgs/relations-entre-artefacts.png "Spectre de la conception")
+![](./imgs/relations-entre-artefacts.png "Spectre de la conception")
 
 ---
 
