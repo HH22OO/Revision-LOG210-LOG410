@@ -1,5 +1,23 @@
 # Cours 7
 
+##### Rappel :
+
+Contraintes de conception
+
+- choix techniques imposés
+- choix du processus de développement
+- réglementation et les normes imposées
+
+Exigences Fonctionnelles
+
+- Décris les fonctions/actions que le logicielle doit exécuter
+- **What the system do ?**
+
+Exigences Fonctionnelles
+
+- Décris comment les fonctions et actions sont régulées
+- **How well does the system do something?**
+
 ## Processus d'affaires
 
 **Definition:** Définisse les formes des actions faites dans une business
