@@ -114,7 +114,7 @@ Pour les identifiers :
 
 # Quiz
 
-##takeaways :
+## Takeaways :
 
 - Classes conceptuelles n'ont pas de méthodes
 - Classes logicielles ont des méthodes
