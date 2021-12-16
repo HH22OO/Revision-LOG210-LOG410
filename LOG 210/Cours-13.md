@@ -22,3 +22,8 @@ Présente le déploiement sur l'achitecture physique. Il documente :
     - Conteneur de servelets ou conteneur d'EJB
 
 # Quiz
+
+## takeaways
+
+- un diagramme de déploiement sert à présenter l'architecture physique d'un système
+- Le diagramme de déploiement est utilisé pour montrer l'Affectation de fichiers exévutables à des noeuds de traitement
